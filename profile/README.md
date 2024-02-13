@@ -7,6 +7,7 @@
 ## 📚 Documentation
 
 * [Project website](https://panoramax.fr/)
+* [Data explorer](https://api.panoramax.xyz/)
 * [Forum](https://forum.geocommuns.fr/c/panoramax/6)
 
 ## 🖥️ Source code
