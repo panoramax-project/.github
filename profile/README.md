@@ -4,7 +4,7 @@
 
 🇫🇷 Panoramax est une ressource numérique permettant la mise en commun et l'exploitation de photos de terrain. Toute personne peut photographier des lieux visibles depuis la voie publique afin d’alimenter la base de données de Panoramax. Ces données sont ensuite librement accessibles et réutilisables.
 
-![Panoramax usage, from taking pictures, uploading, and browsing or reusing images](./features.jpg)
+![Panoramax usage, from taking pictures, uploading, and browsing or reusing images](/profile/features.jpg)
 
 ## 📚 Documentation
 
